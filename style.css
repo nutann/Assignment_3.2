@@ -1,0 +1,13 @@
+.titlehead {
+	margin-left: 20px;	
+}
+
+.titlehead img, titlehead h1 {
+	display: inline-block;
+}
+
+.titlehead img {
+	height: 40px;
+	width: 40px;
+	margin-right: 10px;
+}
